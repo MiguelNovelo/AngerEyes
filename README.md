@@ -1,2 +1,1 @@
-# AngerEyes
-javascript project
+miguelnovelo/angereyes.github.io
